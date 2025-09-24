@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kebronmemes
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning (Private)
+- 🌱 I’m currently learning (Security)
 
 
 <!---
